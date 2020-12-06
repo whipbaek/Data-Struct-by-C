@@ -1,0 +1,2 @@
+C:\Users\white\source\repos\Stack(Array)\Debug\Stack(Array).exe
+C:\Users\white\source\repos\Stack(Array)\Debug\Stack(Array).pdb
